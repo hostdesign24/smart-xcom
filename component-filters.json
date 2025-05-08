@@ -39,7 +39,8 @@
       "columns",
       "fragment",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "income-list"
     ]
   },
   {
@@ -56,7 +57,8 @@
       "enrichment",
       "product-teaser",
       "product-recommendations",
-      "product-list-page"
+      "product-list-page",
+      "income-list"
     ]
   },
   {
@@ -73,7 +75,8 @@
       "enrichment",
       "product-details",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "income-list"
     ]
   },
   {
@@ -87,7 +90,8 @@
       "cards",
       "columns",
       "fragment",
-      "commerce-mini-cart"
+      "commerce-mini-cart",
+      "income-list"
     ]
   },
   {
@@ -103,7 +107,8 @@
       "fragment",
       "commerce-cart",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "income-list"
     ]
   },
   {
@@ -125,7 +130,8 @@
       "commerce-order-product-list",
       "commerce-order-returns",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "income-list"
     ]
   },
   {
@@ -139,7 +145,8 @@
       "cards",
       "columns",
       "fragment",
-      "commerce-checkout"
+      "commerce-checkout",
+      "income-list"
     ]
   },
   {
@@ -153,7 +160,8 @@
       "cards",
       "columns",
       "fragment",
-      "commerce-search-order"
+      "commerce-search-order",
+      "income-list"
     ]
   },
   {
