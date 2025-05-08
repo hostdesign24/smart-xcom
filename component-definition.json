@@ -187,6 +187,22 @@
               }
             }
           }
+        },
+        {
+          "title": "Income List",
+          "id": "income-list",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Income List",
+                  "model": "income-list"
+
+                }
+              }
+            }
+          }
         }
       ]
     },
