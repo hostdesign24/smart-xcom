@@ -1,0 +1,68 @@
+/* Base styles for the income-list block */
+.income-list {
+    background-color: #f9f9f9;
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 900px;
+    margin: 2rem auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+/* Image at the top */
+.income-list img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 1rem;
+    border-radius: 8px;
+}
+
+/* Title styling (dynamic heading tag) */
+.income-list h1,
+.income-list h2,
+.income-list h3,
+.income-list h4,
+.income-list h5,
+.income-list h6 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: #1a202c;
+}
+
+/* Rich text paragraph or content */
+.income-list .income-description {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Income items list */
+.income-list .income-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.income-list .income-items li {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+}
+
+.income-list .income-items li:hover {
+    transform: scale(1.01);
+    border-color: #bbb;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.income-list .income-items strong {
+    font-size: 1.1rem;
+    color: #2c5282;
+}

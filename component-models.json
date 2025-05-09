@@ -525,6 +525,7 @@
     "fields": [
       {
         "component": "reference",
+        "valueType": "string",
         "name": "image",
         "label": "Image",
         "multi": false
@@ -569,6 +570,13 @@
             "value": "h6"
           }
         ]
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
       }
     ]
   },
