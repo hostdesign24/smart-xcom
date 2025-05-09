@@ -57,7 +57,8 @@
       "enrichment",
       "product-teaser",
       "product-recommendations",
-      "product-list-page"
+      "product-list-page",
+      "income-list"
     ]
   },
   {
@@ -74,7 +75,8 @@
       "enrichment",
       "product-details",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "income-list"
     ]
   },
   {
@@ -104,7 +106,8 @@
       "fragment",
       "commerce-cart",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "income-list"
     ]
   },
   {
@@ -126,7 +129,8 @@
       "commerce-order-product-list",
       "commerce-order-returns",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "income-list"
     ]
   },
   {
