@@ -57,8 +57,7 @@
       "enrichment",
       "product-teaser",
       "product-recommendations",
-      "product-list-page",
-      "income-list"
+      "product-list-page"
     ]
   },
   {
@@ -75,8 +74,7 @@
       "enrichment",
       "product-details",
       "product-teaser",
-      "product-recommendations",
-      "income-list"
+      "product-recommendations"
     ]
   },
   {
@@ -90,8 +88,7 @@
       "cards",
       "columns",
       "fragment",
-      "commerce-mini-cart",
-      "income-list"
+      "commerce-mini-cart"
     ]
   },
   {
@@ -107,8 +104,7 @@
       "fragment",
       "commerce-cart",
       "product-teaser",
-      "product-recommendations",
-      "income-list"
+      "product-recommendations"
     ]
   },
   {
@@ -130,8 +126,7 @@
       "commerce-order-product-list",
       "commerce-order-returns",
       "product-teaser",
-      "product-recommendations",
-      "income-list"
+      "product-recommendations"
     ]
   },
   {
